@@ -85,6 +85,14 @@
 <img width="1000" alt="image" src="./images/ADAS.png"> 
 
 
+### [Design MNIST Classifier](https://github.com/woosook0127/MNISTClassification)
+- 기간 : 2021.09 ~ 2021.12
+- 소개 : jetson nano에서 CNN layer를 직접 설계하여 Fast & High accuracy & Robustness MNIST Classifier를 구현.
+- 역할 : Data Generation, Data manipulation, Design CNN layer, Testing
+- 사용한 Skill 또는 지식 : Python, Pytorch, CNN, Perceptron, Classifier, One-hot encoding, GAP, Adam
+<img width="1000" alt="image" src="./images/MNIST.jpg"> 
+
+
 ### Smart Window
 - 기간 : 2021.03 ~ 2021.06
 - 소개 : Ardino와 여러 가지 센서들을 이용해 주변 기상 상황을 감지하여 창문을 개폐하고 WiFi module ESP 8266을 사용해 기상 정보를 제공하는 스마트 윈도우 개발
@@ -103,12 +111,13 @@
 <img width="1000" alt="image" src="./images/EmbeddedGamer.png"> 
 
 
-### [Design MNIST Classifier](https://github.com/woosook0127/MNISTClassification)
-- 기간 : 2021.09 ~ 2021.12
-- 소개 : jetson nano에서 CNN layer를 직접 설계하여 Fast & High accuracy & Robustness MNIST Classifier를 구현.
-- 역할 : Data Generation, Data manipulation, Design CNN layer, Testing
-- 사용한 Skill 또는 지식 : Python, Pytorch, CNN, Perceptron, Classifier, One-hot encoding, GAP, Adam
-<img width="1000" alt="image" src="./images/MNIST.jpg"> 
+
+### [Multi-thread Context Switching](https://github.com/woosook0127/MultiThreading)
+- 기간 : 2020.09 ~ 2020.12
+- 소개 : 한 개의 thread를 실행하고 있는 상태에서 발생한 Interrupt에 의해 다른 thread로 실행이 변경되는 과정에서 기존 thread의 상태와 register값들에 대한 context를 저장하고, 새로운 thread의 context로 교체하는 과정 구현.
+- 역할 : Thread sleep을 구현하고 여기서 sleep된 thread에서 다른 thread로 TCB를 이용해 context switching하는 과정 구현.
+- 사용한 Skill 또는 지식 : C, Thread status, Context switching, Exceptions, Exception handler, Memory structure
+<img width="1000" alt="image" src="./images/MultiThreading.png"> 
 
 
 
