@@ -83,7 +83,7 @@
 - [Demo](https://youtu.be/7U5xfDp8L9c)
 <img width="1000" alt="image" src="./images/ADAS.png"> 
 
-### [Smart Window]
+### Smart Window
 - 기간 : 2021.03 ~ 2021.06
 - 소개 : Ardino와 여러 가지 센서들을 이용해 주변 기상 상황을 감지하여 창문을 개폐하고 WiFi module ESP 8266을 사용해 기상 정보를 제공하는 스마트 윈도우 개발
 - 역할 : 기상청 API와 WiFi 통신을 사용해 Arduino에 기상 정보를 수신하여 이를 display, 하드웨어 재단 및 조립
