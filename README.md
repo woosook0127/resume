@@ -80,6 +80,7 @@
 - 역할 : Train & Test Data Generation, Debugging, Image Cleaning, Warning 제어 프로세스 개발, 
         UI 개선, GPS data 처리, Manual 작성, System optimization, Performance Imprvements
 - 사용한 Skill 또는 지식 : Python, Pytorch, Object detection, Lane detection, Image & Video manipulation, Jetson nano, GPS data
+- [Demo](https://youtu.be/7U5xfDp8L9c)
 <img width="1000" alt="image" src="./images/ADAS.png"> 
 
 ### [Smart Window]
@@ -87,6 +88,7 @@
 - 소개 : Ardino와 여러 가지 센서들을 이용해 주변 기상 상황을 감지하여 창문을 개폐하고 WiFi module ESP 8266을 사용해 기상 정보를 제공하는 스마트 윈도우 개발
 - 역할 : 기상청 API와 WiFi 통신을 사용해 Arduino에 기상 정보를 수신하여 이를 display, 하드웨어 재단 및 조립
 - 사용한 Skill 또는 지식 : Arduino, ESP8266, XML data manipulation, WiFi communication
+- [Demo](https://youtu.be/eEQSiDUFmWE)
 <img width="500" alt="image" src="./images/SmartWindow.png"> 
 
 ### [Embedded Gamer]
@@ -94,6 +96,7 @@
 - 소개 : FRDM K64F보드와 Mbed application shield 및 ESP8266 module을 사용한 http 통신을 사용해 두 가지 게임 구현
 - 역할 : 사용해 게임 Jumping Dino 구현, 사용해 서버에서 게임 모드 변경 구현, System Debugging
 - 사용한 Skill 또는 지식 : UART programming, http communication, Mbed API, PWM control, Real-time programming, NodeMCU, Pass through connection
+- [Demo]()
 <img width="1000" alt="image" src="./images/EmbeddedGamer.png"> 
 
 
