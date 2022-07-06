@@ -11,8 +11,6 @@
 
 - GitHub: https://github.com/woosook0127 
 
-- 관심사: 헬스, 컴퓨터
-
 
 ## 활동
 
