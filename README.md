@@ -52,21 +52,21 @@
 - 소개 : 24시간 트레이딩이 어려운 암호화폐 시장에서 자동 거래 시스템을 구축하여 수익을 실현하는 서비스
 - 역할 : 거래 기법을 구현하고 UI와 연결, 프로그램 안정화와 오류 처리
 - 사용한 Skill 또는 지식 : Python, PyQt, Coin trading strategy, Time-series analysis, Prophet
-<img width="600" alt="image" src="./images/CoinATS.png">  
+<img width="1000" alt="image" src="./images/CoinATS.png">  
 
 ### [SelfDriving&Parking](https://github.com/woosook0127/SelfParking)
 - 기간 : 2022.02 ~ 현재
 - 소개 : jetson nano와 4개의 카메라만을 가지고 자율 주차 및 간단한 자율 주행을 구현
 - 역할 : image segmentation으로 객체 거리 추출, Reinforces learning으로 자율 주차 구현
 - 사용한 Skill 또는 지식 : Python, Pytorch, TensorFlow, Reinforced learning, Supervised learning, image segmentation, bird eye's view
-<img width="600" alt="image" src="./images/SelfParking.jpeg">  
+<img width="1000" alt="image" src="./images/SelfParking.jpeg">  
 
 ### [NLP Project](https://github.com/woosook0127/ML_Project)
 - 기간 : 2021.09 ~ 2021.12
 - 소개 : 트위터에 등록되는 트윗을 자연어 처리를 통해 분석하여 자연 재해 상황을 예측한다
 - 역할 : 재난 관련 트위터를 검색하기 위한 hash tag 생성, TF-IDF와 RidgeClassifer를 사용하여 예측 모델 생성
 - 사용한 Skill 또는 지식 : Python, PyQt, Binary Classification, Text Vectorization, 
-<img width="600" alt="image" src="./images/NLP.png">  
+<img width="1000" alt="image" src="./images/NLP.png">  
 
 ### [HousePrice Precdiction](https://github.com/woosook0127/BigdataApplicationProject)
 - 기간 : 2022.03 ~ 2022.06
@@ -80,21 +80,21 @@
 - 역할 : Train & Test Data Generation, Debugging, Image Cleaning, Warning 제어 프로세스 개발, 
         UI 개선, GPS data 처리, Manual 작성, System optimization, Performance Imprvements
 - 사용한 Skill 또는 지식 : Python, Pytorch, Object detection, Lane detection, Image & Video manipulation, Jetson nano, GPS data
-<img width="600" alt="image" src="./images/ADAS.png"> 
+<img width="1000" alt="image" src="./images/ADAS.png"> 
 
 ### [Smart Window]
 - 기간 : 2021.03 ~ 2021.06
 - 소개 : Ardino와 여러 가지 센서들을 이용해 주변 기상 상황을 감지하여 창문을 개폐하고 WiFi module ESP 8266을 사용해 기상 정보를 제공하는 스마트 윈도우 개발
 - 역할 : 기상청 API와 WiFi 통신을 사용해 Arduino에 기상 정보를 수신하여 이를 display, 하드웨어 재단 및 조립
 - 사용한 Skill 또는 지식 : Arduino, ESP8266, XML data manipulation, WiFi communication
-<img width="300" alt="image" src="./images/SmartWindow.png"> 
+<img width="500" alt="image" src="./images/SmartWindow.png"> 
 
 ### [Embedded Gamer]
 - 기간 : 2021.03 ~ 2021.06
 - 소개 : FRDM K64F보드와 Mbed application shield 및 ESP8266 module을 사용한 http 통신을 사용해 두 가지 게임 구현
 - 역할 : 사용해 게임 Jumping Dino 구현, 사용해 서버에서 게임 모드 변경 구현, System Debugging
 - 사용한 Skill 또는 지식 : UART programming, http communication, Mbed API, PWM control, Real-time programming, NodeMCU, Pass through connection
-<img width="600" alt="image" src="./images/EmbeddedGamer.png"> 
+<img width="1000" alt="image" src="./images/EmbeddedGamer.png"> 
 
 
 ## 수상 경력
