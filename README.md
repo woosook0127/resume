@@ -4,12 +4,13 @@
 
 #### 안녕하세요 김우석입니다.
 
-
 - 이름: 김우석
 
 - Email: woosook0127@naver.com
 
 - GitHub: https://github.com/woosook0127 
+
+- 취미: 헬스, 테니스
 
 ---
 
