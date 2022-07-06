@@ -89,7 +89,7 @@
 - 기간 : 2021.03 ~ 2021.06
 - 소개 : Ardino와 여러 가지 센서들을 이용해 주변 기상 상황을 감지하여 창문을 개폐하고 WiFi module ESP 8266을 사용해 기상 정보를 제공하는 스마트 윈도우 개발
 - 역할 : 기상청 API와 WiFi 통신을 사용해 Arduino에 기상 정보를 수신하여 이를 display, 하드웨어 재단 및 조립
-- 사용한 Skill 또는 지식 : Arduino, ESP8266, XML data manipulation, WiFi communication
+- 사용한 Skill 또는 지식 : C++, Arduino, ESP8266, XML data manipulation, WiFi communication
 - [Demo](https://youtu.be/eEQSiDUFmWE)
 <img width="500" alt="image" src="./images/SmartWindow.png"> 
 
@@ -98,9 +98,18 @@
 - 기간 : 2021.03 ~ 2021.06
 - 소개 : FRDM K64F보드와 Mbed application shield 및 ESP8266 module을 사용한 http 통신을 사용해 두 가지 게임 구현
 - 역할 : 사용해 게임 Jumping Dino 구현, 사용해 서버에서 게임 모드 변경 구현, System Debugging
-- 사용한 Skill 또는 지식 : UART programming, http communication, Mbed API, PWM control, Real-time programming, NodeMCU, Pass through connection
-- [Demo]()
+- 사용한 Skill 또는 지식 : C, UART programming, http communication, Mbed API, PWM control, Real-time programming, NodeMCU, Pass through connection
+- [Demo](https://www.youtube.com/watch?v=xBjS9MI-yQs)
 <img width="1000" alt="image" src="./images/EmbeddedGamer.png"> 
+
+
+### [Design MNIST Classifier](https://github.com/woosook0127/MNISTClassification)
+- 기간 : 2021.09 ~ 2021.12
+- 소개 : jetson nano에서 CNN layer를 직접 설계하여 Fast & High accuracy & Robustness MNIST Classifier를 구현.
+- 역할 : Data Generation, Data manipulation, Design CNN layer, Testing
+- 사용한 Skill 또는 지식 : Python, Pytorch, CNN, Perceptron, Classifier, One-hot encoding, GAP, Adam
+<img width="1000" alt="image" src="./images/MNIST.png"> 
+
 
 
 ---
