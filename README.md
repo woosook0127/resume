@@ -50,7 +50,7 @@
 - 역할 : 거래 기법을 구현하고 UI와 연결, 프로그램 안정화와 오류 처리
 - 사용한 Skill 또는 지식 : Python, PyQt, Coin trading strategy, Time-series analysis, Prophet
 <img width="1000" alt="image" src="./images/CoinATS.png">  
-##
+
 
 ### [SelfDriving&Parking](https://github.com/woosook0127/SelfParking)
 - 기간 : 2022.02 ~ 현재
@@ -58,7 +58,7 @@
 - 역할 : image segmentation으로 객체 거리 추출, Reinforces learning으로 자율 주차 구현
 - 사용한 Skill 또는 지식 : Python, Pytorch, TensorFlow, Reinforced learning, Supervised learning, image segmentation, bird eye's view
 <img width="1000" alt="image" src="./images/SelfParking.jpeg">  
-##
+
 
 ### [NLP Project](https://github.com/woosook0127/ML_Project)
 - 기간 : 2021.09 ~ 2021.12
@@ -66,14 +66,14 @@
 - 역할 : 재난 관련 트위터를 검색하기 위한 hash tag 생성, TF-IDF와 RidgeClassifer를 사용하여 예측 모델 생성
 - 사용한 Skill 또는 지식 : Python, PyQt, Binary Classification, Text Vectorization, 
 <img width="1000" alt="image" src="./images/NLP.png">  
-##
+
 
 ### [HousePrice Precdiction](https://github.com/woosook0127/BigdataApplicationProject)
 - 기간 : 2022.03 ~ 2022.06
 - 소개 : 최근 1년 간 서울시 집 값 데이터로 학습된 모델을 가지고 현재 저평가된 지역과 고평가된 지역을 예측하여 부동산 매매에 도움을 주는 서비스
 - 역할 : 데이터 수집 및 조작, 데이터 변형 및 정제, 모델 학습, 모델 선정
 - 사용한 Skill 또는 지식 : Python, Pandas, Matplotlib, Regressor, Data crawling, Data analysis, Data manipulate, Regular function,
-##
+
 
 ### [ADAS](https://github.com/woosook0127/SM-R320-adas)
 - 기간 : 2021.06 ~ 2022.02
@@ -83,7 +83,7 @@
 - 사용한 Skill 또는 지식 : Python, Pytorch, Object detection, Lane detection, Image & Video manipulation, Jetson nano, GPS data
 - [Demo](https://youtu.be/7U5xfDp8L9c)
 <img width="1000" alt="image" src="./images/ADAS.png"> 
-##
+
 
 ### Smart Window
 - 기간 : 2021.03 ~ 2021.06
@@ -92,7 +92,7 @@
 - 사용한 Skill 또는 지식 : Arduino, ESP8266, XML data manipulation, WiFi communication
 - [Demo](https://youtu.be/eEQSiDUFmWE)
 <img width="500" alt="image" src="./images/SmartWindow.png"> 
-##
+
 
 ### [Embedded Gamer](https://github.com/woosook0127/EmbeddedGamer)
 - 기간 : 2021.03 ~ 2021.06
@@ -101,7 +101,7 @@
 - 사용한 Skill 또는 지식 : UART programming, http communication, Mbed API, PWM control, Real-time programming, NodeMCU, Pass through connection
 - [Demo]()
 <img width="1000" alt="image" src="./images/EmbeddedGamer.png"> 
-##
+
 
 ---
 
