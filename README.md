@@ -108,7 +108,7 @@
 - 소개 : jetson nano에서 CNN layer를 직접 설계하여 Fast & High accuracy & Robustness MNIST Classifier를 구현.
 - 역할 : Data Generation, Data manipulation, Design CNN layer, Testing
 - 사용한 Skill 또는 지식 : Python, Pytorch, CNN, Perceptron, Classifier, One-hot encoding, GAP, Adam
-<img width="1000" alt="image" src="./images/MNIST.png"> 
+<img width="1000" alt="image" src="./images/MNIST.jpg"> 
 
 
 
