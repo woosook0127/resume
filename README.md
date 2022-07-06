@@ -30,7 +30,7 @@
 ### Hardware
 
 - `Jetson-nano` `Jetson-Xavier` `Jetson-TX2` 
-- `FRDM-k64F` `EK-TM4C1294XL` 
+- `FRDM-k64F` `EK-TM4C1294XL` `ESP8266` `Mbed Application Shield` 
 - `NUCLEO-F446RE` `SX1272MB2DAS`  
 
 ### Process
