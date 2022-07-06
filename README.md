@@ -56,7 +56,7 @@
 
 ### [SelfDriving&Parking](https://github.com/woosook0127/SelfParking)
 - 기간 : 2022.02 ~ 현재
-- 소개 : 4개의 카메라만을 가지고 자율 주차 및 간단한 자율 주행을 구현
+- 소개 : jetson nano와 4개의 카메라만을 가지고 자율 주차 및 간단한 자율 주행을 구현
 - 역할 : image segmentation으로 객체 거리 추출, Reinforces learning으로 자율 주차 구현
 - 사용한 Skill 또는 지식 : Python, Pytorch, TensorFlow, Reinforced learning, Supervised learning, image segmentation, bird eye's view
 <img width="600" alt="image" src="./images/SelfParking.jpeg">  
@@ -81,6 +81,20 @@
         UI 개선, GPS data 처리, Manual 작성, System optimization, Performance Imprvements
 - 사용한 Skill 또는 지식 : Python, Pytorch, Object detection, Lane detection, Image & Video manipulation, Jetson nano, GPS data
 <img width="600" alt="image" src="./images/ADAS.png"> 
+
+### [Smart Window]
+- 기간 : 2021.03 ~ 2021.06
+- 소개 : Ardino와 여러 가지 센서들을 이용해 주변 기상 상황을 감지하여 창문을 개폐하고 WiFi module ESP 8266을 사용해 기상 정보를 제공하는 스마트 윈도우 개발
+- 역할 : 기상청 API와 WiFi 통신을 사용해 Arduino에 기상 정보를 수신하여 이를 display, 하드웨어 재단 및 조립
+- 사용한 Skill 또는 지식 : Arduino, ESP8266, XML data manipulation, WiFi communication
+<img width="600" alt="image" src="./images/SmartWindow.png"> 
+
+### [Embedded Gamer]
+- 기간 : 2021.03 ~ 2021.06
+- 소개 : FRDM K64F보드와 Mbed application shield 및 ESP8266 module을 사용한 http 통신을 사용해 두 가지 게임 구현
+- 역할 : 사용해 게임 Jumping Dino 구현, 사용해 서버에서 게임 모드 변경 구현, System Debugging
+- 사용한 Skill 또는 지식 : UART programming, http communication, Mbed API, PWM control, Real-time programming, NodeMCU, Pass through connection
+<img width="600" alt="image" src="./images/SmartWindow.png"> 
 
 
 ## 수상 경력
