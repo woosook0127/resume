@@ -57,8 +57,9 @@
 - 소개 : jetson nano와 4개의 카메라만을 가지고 자율 주차 및 간단한 자율 주행을 구현
 - 역할 : image segmentation으로 객체 거리 추출, Reinforces learning으로 자율 주차 구현
 - 사용한 Skill 또는 지식 : Python, Pytorch, TensorFlow, Reinforced learning, Supervised learning, image segmentation, bird eye's view
+<!--
 <img width="1000" alt="image" src="./images/SelfParking.jpeg">  
-
+-->
 
 ### [NLP Project](https://github.com/woosook0127/ML_Project)
 - 기간 : 2021.09 ~ 2021.12
