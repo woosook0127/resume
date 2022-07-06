@@ -91,7 +91,7 @@
 - [Demo](https://youtu.be/eEQSiDUFmWE)
 <img width="500" alt="image" src="./images/SmartWindow.png"> 
 
-### [Embedded Gamer]
+### [Embedded Gamer](https://github.com/woosook0127/EmbeddedGamer)
 - 기간 : 2021.03 ~ 2021.06
 - 소개 : FRDM K64F보드와 Mbed application shield 및 ESP8266 module을 사용한 http 통신을 사용해 두 가지 게임 구현
 - 역할 : 사용해 게임 Jumping Dino 구현, 사용해 서버에서 게임 모드 변경 구현, System Debugging
