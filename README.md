@@ -52,7 +52,7 @@
 - 소개 : 24시간 트레이딩이 어려운 암호화폐 시장에서 자동 거래 시스템을 구축하여 수익을 실현하는 서비스
 - 역할 : 거래 기법을 구현하고 UI와 연결, 프로그램 안정화와 오류 처리
 - 사용한 Skill 또는 지식 : Python, PyQt, Coin trading strategy, Time-series analysis, Prophet
-<img width="600" alt="image" src="./images/CoinATS.jpeg">  
+<img width="600" alt="image" src="./images/CoinATS.png">  
 
 ### [SelfDriving&Parking](https://github.com/woosook0127/SelfParking)
 - 기간 : 2022.02 ~ 현재
@@ -66,7 +66,7 @@
 - 소개 : 트위터에 등록되는 트윗을 자연어 처리를 통해 분석하여 자연 재해 상황을 예측한다
 - 역할 : 재난 관련 트위터를 검색하기 위한 hash tag 생성, TF-IDF와 RidgeClassifer를 사용하여 예측 모델 생성
 - 사용한 Skill 또는 지식 : Python, PyQt, Binary Classification, Text Vectorization, 
-<img width="600" alt="image" src="./images/ML_Projects.jpeg">  
+<img width="600" alt="image" src="./images/NLP.png">  
 
 ### [HousePrice Precdiction](https://github.com/woosook0127/BigdataApplicationProject)
 - 기간 : 2022.03 ~ 2022.06
@@ -80,7 +80,7 @@
 - 역할 : Train & Test Data Generation, Debugging, Image Cleaning, Warning 제어 프로세스 개발, 
         UI 개선, GPS data 처리, Manual 작성, System optimization, Performance Imprvements
 - 사용한 Skill 또는 지식 : Python, Pytorch, Object detection, Lane detection, Image & Video manipulation, Jetson nano, GPS data
-<img width="600" alt="image" src="./images/ADAS.jpeg"> 
+<img width="600" alt="image" src="./images/ADAS.png"> 
 
 
 ## 수상 경력
