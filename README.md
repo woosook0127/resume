@@ -66,7 +66,7 @@
 - 기간 : 2021.09 ~ 2021.12
 - 소개 : 트위터에 등록되는 트윗을 자연어 처리를 통해 분석하여 자연 재해 상황을 예측한다
 - 역할 : 재난 관련 트위터를 검색하기 위한 hash tag 생성, TF-IDF와 RidgeClassifer를 사용하여 예측 모델 생성
-- 사용한 Skill 또는 지식 : Python, PyQt, Binary Classification, Text Vectorization, 
+- 사용한 Skill 또는 지식 : Python, PyQt, Binary Classification, Text Vectorization, TF-IDF, Ridge Classifier 
 <img width="1000" alt="image" src="./images/NLP.png">  
 
 
