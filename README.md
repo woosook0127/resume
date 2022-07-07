@@ -16,7 +16,7 @@
 
 ## 활동
 
-- [Contents Creative Labs](https://sites.google.com/view/cclabs/%ED%99%88) (2021.04 - 현재)
+- [Creative Content Labs](https://sites.google.com/view/cclabs/%ED%99%88) (2021.04 - 현재)
 
 ---
 
