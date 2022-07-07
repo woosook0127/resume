@@ -107,7 +107,7 @@
 ### [Embedded Gamer](https://github.com/woosook0127/EmbeddedGamer)
 - 기간 : 2022.03 ~ 2022.06
 - 소개 : FRDM K64F보드와 Mbed application shield 및 ESP8266 module을 사용한 http 통신을 사용해 두 가지 게임 구현
-- 역할 : 사용해 게임 Jumping Dino 구현, 사용해 서버에서 게임 모드 변경 구현, System Debugging
+- 역할 : 게임 Jumping Dino 구현, 사용해 서버에서 게임 모드 변경 구현, System Debugging
 - 사용한 Skill 또는 지식 : C, UART programming, http communication, Mbed API, PWM control, Real-time programming, NodeMCU, Pass through connection
 - [Demo](https://www.youtube.com/watch?v=xBjS9MI-yQs)
 <img width="1000" alt="image" src="./images/EmbeddedGamer.png"> 
