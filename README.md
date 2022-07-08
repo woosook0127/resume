@@ -16,7 +16,7 @@
 
 ## 활동
 
-- [Contents Creative Labs](https://sites.google.com/view/cclabs/%ED%99%88) (2021.04 - 현재)
+- [Creative Content Labs](https://sites.google.com/view/cclabs/%ED%99%88) (2021.04 - 현재)
 
 ---
 
@@ -66,7 +66,8 @@
 - 기간 : 2021.09 ~ 2021.12
 - 소개 : 트위터에 등록되는 트윗을 자연어 처리를 통해 분석하여 자연 재해 상황을 예측한다
 - 역할 : 재난 관련 트위터를 검색하기 위한 hash tag 생성, TF-IDF와 RidgeClassifer를 사용하여 예측 모델 생성
-- 사용한 Skill 또는 지식 : Python, PyQt, Binary Classification, Text Vectorization, 
+- 사용한 Skill 또는 지식 : Python, PyQt, Binary Classification, Text Vectorization, TF-IDF, Ridge Classifier 
+- [Demo](https://www.youtube.com/watch?v=mqmowHDQUE8)
 <img width="1000" alt="image" src="./images/NLP.png">  
 
 
@@ -105,9 +106,9 @@
 
 
 ### [Embedded Gamer](https://github.com/woosook0127/EmbeddedGamer)
-- 기간 : 2021.03 ~ 2021.06
-- 소개 : FRDM K64F보드와 Mbed application shield 및 ESP8266 module을 사용한 http 통신을 사용해 두 가지 게임 구현
-- 역할 : 사용해 게임 Jumping Dino 구현, 사용해 서버에서 게임 모드 변경 구현, System Debugging
+- 기간 : 2022.03 ~ 2022.06
+- 소개 : FRDM K64F보드, Mbed application shield, ESP8266 module을 사용한 http 통신을 활용해 두 가지 게임 구현
+- 역할 : 게임 Jumping Dino 구현, 서버에서 게임 모드 변경 구현, System Debugging
 - 사용한 Skill 또는 지식 : C, UART programming, http communication, Mbed API, PWM control, Real-time programming, NodeMCU, Pass through connection
 - [Demo](https://www.youtube.com/watch?v=xBjS9MI-yQs)
 <img width="1000" alt="image" src="./images/EmbeddedGamer.png"> 
@@ -129,4 +130,4 @@
 
 **상명대학교 2021-1학기 스터디상생플러스 (최우수)**
 
-- 수상 날짜: 2020.09
+- 수상 날짜: 2021.09
