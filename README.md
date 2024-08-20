@@ -1,6 +1,6 @@
 ## 이력서
 
-<img width="200" alt="image" src="./images/profile.jpeg">  
+<img width="200" alt="image" src="./images/profile.jpg">  
 
 #### 안녕하세요 김우석입니다.
 
