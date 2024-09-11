@@ -1,31 +1,32 @@
-## 이력서
+## Resume
 
 <img width="100" alt="image" src="./images/profile.jpg">  
 
-#### 안녕하세요 김우석입니다.
+#### Hi, I am wooseok.
 
-- 이름: 김우석
+- 이름: Wooseok Kim
 
 - Email: woosook0127@naver.com
 
 - GitHub: https://github.com/woosook0127 
 
-- 취미: 헬스, 테니스
+- 취미: Weight Training, 
 
 ---
 
-## 활동
+## Research Expericence
 
-- [Creative Content Labs](https://sites.google.com/view/cclabs/%ED%99%88) (2021.04 - 현재)
-
+- [Creative Content Lab](https://creativecontentlabs.github.io/) (2021.04 - 2022.12)
+- [Intelligent Information Processing Lab](https://iip.sogang.ac.kr/) (2023.06 - now)
 ---
 
-## 사용 기술
+## Techniques
 
 ### Language
 
 - `Python`, `C`, `C++`
 - `Machine Learning` `NLP` `CV` `CNN`
+- `Signal Processing` `Beamforming` `Acoustic Echo Cancellation`
 - `Multiprocessing` `Data Analysis` `Serial Communication` 
 
 ### Hardware
@@ -37,13 +38,13 @@
 ### Process
 
 - 모니터링 - `Github`
-- 커뮤니티 - `Slack`
+- 커뮤니티 - `Slack` `Mattermost`
 - 이슈관리 - `Github` `Notion` 
-- 버전관리 - `Git` 
+- 버전관리 - `Git` `GitKraken`
 
 ---
 
-## 프로젝트
+## Project
 
 ### [CoinATS](https://github.com/woosook0127/CoinATS)
 - 기간 : 2022.02 ~ 현재
@@ -126,7 +127,7 @@
 
 ---
 
-## 수상 경력
+## Award
 
 **상명대학교 2021-1학기 스터디상생플러스 (최우수)**
 
